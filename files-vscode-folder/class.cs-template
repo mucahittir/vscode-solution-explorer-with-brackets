@@ -1,5 +1,7 @@
-namespace {{namespace}};
-
-public class {{name}}
+namespace {{namespace}}
 {
+    public class {{name}}
+    {
+
+    }
 }

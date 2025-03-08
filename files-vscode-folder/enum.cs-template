@@ -1,5 +1,7 @@
-namespace {{namespace}};
-
-public enum {{name}}
+namespace {{namespace}}
 {
+    public enum {{name}}
+    {
+
+    }
 }
